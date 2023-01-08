@@ -7,4 +7,4 @@ The choice of mini-board on which to play is not free, being determined by the o
 
 In addition to the normal implementation of this game, there is also a automatic player. And also the users can interrupt the game and resume it later whenever they want. The users can see last moves upto 10th last move. When the game is over, the summary of the game (every move) will be given in a text file.
 
-You can see the details on the Prog_MaryaAktas.pdf file, i.e., main data structures of the implementation, dynamic structures implementation, organization of the files, justification of the options, and the user manual.
+You can see the details on the **'MARYA_AKTAS_Ultimate_Tic-Tac-Toe.PDF'** file, i.e., main data structures of the implementation, dynamic structures implementation, organization of the files, justification of the options, and the user manual.
